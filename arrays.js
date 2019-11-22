@@ -29,7 +29,7 @@ var chocolateBars = [
     return array;
   }
   
-  function accessElementInArray() {
+  function accessElementInArray(array, index) {
     
   }
   
